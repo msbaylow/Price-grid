@@ -16,11 +16,11 @@
 
 ### Screenshot
 
-![price grid design.jpeg](./price grid design.jpeg)
+![C:\Users\HP\Documents\GitHub\Price-grid\price grid design.jpeg]
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [https://github.com/msbaylow/Price-grid]
 - Live Site URL: [Add live site URL here]()
 
 ### Built with
