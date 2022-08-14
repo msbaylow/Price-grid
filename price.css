@@ -1,0 +1,90 @@
+body{background-color:hsl(204, 43%, 93%) ;
+    
+}
+.container{
+    display: grid;
+    grid-template-columns: 50% ;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    
+}
+
+.container1{display: grid;
+    grid-template-columns:50% 50% ;
+   
+}
+
+.box1{background-color: white;
+    margin-top: 2rem;
+    padding: 1rem;
+   
+}
+.first1{color:hsl(179, 62%, 43%) ;
+    
+}
+.first2{color:hsl(71, 73%, 54%) ;
+
+}
+.first3{color: rgb(139, 130, 130);
+
+}
+.box2{background-color: hsl(179, 62%, 43%);
+    padding: 1.8rem;
+  
+    
+
+}
+.box3{background-color:hsl(179, 62%, 43%);
+    opacity: 0.7;
+    padding: 1.8rem;
+    line-height: 1.5rem;
+    color: rgb(240, 228, 228);
+    
+}
+.second1{color:rgb(252, 247, 247) ;
+
+}
+.amnt{display: flex;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+
+}
+.amt{font-size: 1rem;
+    margin-bottom: 1rem;
+    color: rgb(240, 228, 228);
+
+}
+.am{margin-top: 0.5rem;
+    font-size: 2rem;
+    color: white;
+
+}
+.acc{
+    color: white;
+    margin-top: 0.5rem;
+    font-size: large;
+}
+.btn{
+    background-color:hsl(71, 73%, 54%) ;
+    color: white;
+    border-style: none;
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin-top: 1.5rem;}
+
+    .btn:hover{background-color: rgb(127, 199, 127);
+        color: black;
+    }
+    @media only screen and (max-width:700px){
+
+        .container{
+            display: block;
+            grid-template-rows: 30% 70%;
+            justify-content: center;
+        }
+        .container1{
+            display: block;
+        }
+        }
