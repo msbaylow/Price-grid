@@ -14,7 +14,7 @@
 
 ### Screenshot
 
-![C:\Users\HP\Documents\GitHub\Price-grid\price grid design.jpeg]
+![](price%20grid%20design.jpeg)
 
 ### Links
 
